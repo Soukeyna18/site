@@ -12,18 +12,17 @@ body {
   }
   
   .logo img {
-    width: 110px;
+    width: 128px;
     height: 50px;
-    margin-left: 35px;
-    margin-top: 60px;
-    margin-bottom: 25pax;
+    margin-left: 20px;
+    margin-top: 20px;
   }
   
   nav ul {
     list-style: none;
     display: flex;
     margin-right: auto;
-    font-size: medium;
+    
   }
   
   nav ul li {
@@ -34,14 +33,14 @@ body {
     text-decoration: none;
     color: #333;
     font-family: 'Work Sans', sans-serif;
- 
+    font-size: 600;
     
   }
   
   .social-media img {
     width: 30px;
     height: 30px;
-    margin-left: 600px;
+    margin-left: 300px;
   }
 
   .background-image {
