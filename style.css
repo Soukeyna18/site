@@ -33,14 +33,14 @@ body {
     text-decoration: none;
     color: #333;
     font-family: 'Work Sans', sans-serif;
-    font-size: 20px;
+    font-size: 10px;
     
   }
   
   .social-media img {
     width: 30px;
     height: 30px;
-    margin-left: 100px;
+    margin-left: 300px;
   }
 
   .background-image {
