@@ -12,8 +12,8 @@ body {
   }
   
   .logo img {
-    width: 128px;
-    height: 50px;
+    width: 190px;
+    height: 60px;
     margin-left: 20px;
     margin-top: 20px;
   }
@@ -33,14 +33,14 @@ body {
     text-decoration: none;
     color: #333;
     font-family: 'Work Sans', sans-serif;
-    font-size: 5;
+    font-size: 30;
     
   }
   
   .social-media img {
     width: 30px;
     height: 30px;
-    margin-left: 350px;
+    margin-left: 450px;
   }
 
   .background-image {
